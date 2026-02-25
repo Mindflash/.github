@@ -1,6 +1,8 @@
+# PR Summary
+
 # AI Disclamer
 
-*Please check the appropriate box and fill in any relevant details*
+*Please check the appropriate box `[x]` and fill in any relevant details*
 
 - [ ] Devin (model: ______, playbook: ______)
 - [ ] Github Copilot
